@@ -11,25 +11,25 @@ public class SchoolGradeExample {
 		{
 			System.out.println("Student Grade F");
 	}
-		else if(marks>25 && marks<45)
+		else if(marks>=25 && marks<45)
 		{
 			System.out.println("Student Grade E");
 			
 		}
-		else if(marks>45 && marks<50)
+		else if(marks>=45 && marks<50)
 		{
 			System.out.println("Student Grade D");
 		}
-		else if(marks>50 && marks<60)
+		else if(marks>=50 && marks<60)
 		{
 			System.out.println("Student Grade C");
 		}
-		else if(marks>60 &&marks<80)
+		else if(marks>=60 &&marks<80)
 		{
 			System.out.println("Student Grade B");
 			
 		}
-		else if(marks >80)
+		else if(marks >=80)
 		{
 			System.out.println("Student Grade A");
 		}
