@@ -1,4 +1,4 @@
-package my.dev.projectExamples;
+package my.dev.projectExamples.controlExamples;
 
 import java.util.Scanner;
 
