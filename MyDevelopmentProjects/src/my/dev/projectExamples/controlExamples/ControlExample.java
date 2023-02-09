@@ -9,6 +9,8 @@ public class ControlExample {
     Scanner scn =new Scanner(System.in);
     System.out.println("Enter a number");
     int i = scn.nextInt();
+	System.out.println("i%2....."+i%2);
+
     if (i%2 ==0)
     {
     	System.out.println(i+"");

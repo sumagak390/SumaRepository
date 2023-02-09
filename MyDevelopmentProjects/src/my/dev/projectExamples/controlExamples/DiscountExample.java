@@ -11,9 +11,9 @@ public class DiscountExample {
 
 		int totalCost = scn.nextInt();
 
-		int discountPercent = 10;
+		int discountPercent = 10;// discount 10%
 
-		if(totalCost>1000)
+		if(totalCost>1000) //Here total purchase cost should be greater then 1000
 		{
 			System.out.println("Total cost of money...." + totalCost);
 
