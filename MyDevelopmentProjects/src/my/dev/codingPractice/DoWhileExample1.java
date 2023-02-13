@@ -1,5 +1,5 @@
 package my.dev.codingPractice;
-
+//print numbers from 10 to 0 using DoWhileloop.
 public class DoWhileExample1 {
 
 	public static void main(String[] args) {
